@@ -57,6 +57,7 @@ You compare launching an online course vs. opening a bakery based on cost, time,
 ---
 
 🔹 Q5. What is Market and Demand Analysis?
+
 👉 Definition: It is the process of studying the market potential and the likely demand for a new product or service.
 
 📌 Steps:
