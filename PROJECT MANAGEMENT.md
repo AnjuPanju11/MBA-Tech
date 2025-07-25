@@ -16,6 +16,7 @@ Constructing a shopping mall – you prepare the building plan, hire a team, mon
 ---
 
 🔹 Q2. What are the phases of the Project Management Life Cycle?
+
 📌 Five Phases:
 1. Initiation – Identifying needs and checking feasibility
 2. Planning – Creating project roadmap, cost, resources, schedule
@@ -29,6 +30,7 @@ Creating a YouTube Channel → Plan content → Shoot videos → Track views →
 ---
 
 🔹 Q3. What are sources of new project ideas?
+
 📌 Sources:
 - Market Demand – e.g., public need for faster delivery
 - New Technology – new tools that create new opportunities
