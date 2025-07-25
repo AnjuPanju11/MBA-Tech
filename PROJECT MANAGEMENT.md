@@ -44,6 +44,7 @@ Swiggy started as a response to public demand for fast home food delivery.
 ---
 
 🔹 Q4. What is Project Selection? Mention models.
+
 👉 Definition: Project selection is the process of choosing the most beneficial project from various options.
 
 📌 Common Models:
