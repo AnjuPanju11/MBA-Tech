@@ -52,6 +52,13 @@ Swiggy started as a response to public demand for fast home food delivery.
 - NPV (Net Present Value) – Total profit in today’s terms
 - Scoring Model – Based on points assigned to various criteria
 
+Criteria              | Bakery | Food App
+---------------------|--------|---------
+Profit               |   7    |   9
+Investment Needed    |   8    |   6
+Time to Launch       |   9    |   7
+Risk Level           |   6    |   8
+
 💡 Example:
 You compare launching an online course vs. opening a bakery based on cost, time, and potential income.
 
