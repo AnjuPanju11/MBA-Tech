@@ -1,137 +1,175 @@
-📘 UNIT 1 – PROJECT MANAGEMENT BASICS & PROJECT SELECTION
+📘🧩 UNIT 1: PROJECT MANAGEMENT CONCEPTS & SELECTION
 
-1️⃣ Q: What is project management?
-📝 Project management means handling a project step-by-step from start to end. It includes planning, organizing, leading, and controlling.
-💡 Example: Building a school includes planning the design, assigning workers, managing budget, and completing on time.
+🔹 Q1. What is Project Management?
+👉 Definition: Project management is the process of leading a team to achieve specific goals within a time limit and budget.
+📌 Key elements: Planning, Scheduling, Executing, Monitoring, Controlling
+💡 Example: Constructing a shopping mall – you plan the layout, hire workers, monitor progress, and handover before deadline.
 
-2️⃣ Q: What are the phases in the Project Management Life Cycle?
-📝 Phases:
-1. Initiation – starting the idea
-2. Planning – making schedule & budget
-3. Execution – doing the work
-4. Monitoring – tracking performance
-5. Closure – finishing the project
-💡 Example: Launching a new app goes through all 5 steps.
+🔹 Q2. What are the phases of the Project Management Life Cycle?
+📌 Five Key Phases:
+1. Initiation 🔍 – Idea, feasibility
+2. Planning 📋 – Timeline, cost, scope
+3. Execution 🚧 – Work starts
+4. Monitoring 🕵️‍♂️ – Progress tracking
+5. Closure ✅ – Final delivery, feedback
 
-3️⃣ Q: What are methods for generating project ideas?
-📝 Sources:
-- Market gap
-- Customer needs
-- New tech trends
-- Competition
-💡 Example: Paytm was started when people needed digital payment solutions.
+💡 Example: Making a YouTube channel – you plan content (planning), shoot videos (execution), check views (monitoring), then improve or close.
 
-4️⃣ Q: What is project selection? Name selection models.
-📝 Project selection is choosing the most useful project from many ideas.
-📌 Common Models:
-- Payback Period
-- NPV (Net Present Value)
-- Scoring Model
-💡 Example: Choosing between opening a café or gym by comparing which gives quicker returns.
+🔹 Q3. What are sources of new project ideas?
+📌 Sources:
+- Market Demand 📊
+- New Technology ⚙️
+- Customer Complaints 🗣️
+- R&D or Innovations 🔬
 
-5️⃣ Q: What is market and demand analysis?
-📝 It studies the demand for a product or service and the customer base.
-📌 Steps: Survey → Analyze demand → Estimate future growth
-💡 Example: A startup checks if people in a city want vegan food before launching.
+💡 Example: Swiggy started as a response to demand for home food delivery.
 
-------------------------------------------------------------
+🔹 Q4. What is Project Selection? Mention models.
+👉 Project selection is choosing the best possible project to invest in.
+📌 Models:
+- Payback Period 💰 (quick return?)
+- NPV (Net Present Value) 📈 (profitability?)
+- Scoring Model 🎯 (points system)
 
-📘 UNIT 2 – PROJECT MANAGER, ORGANIZATION & PLANNING
+💡 Example: You compare launching an online course or opening a bakery based on profits and effort.
 
-6️⃣ Q: What is the role of a Project Manager?
-📝 A Project Manager (PM) ensures the project is completed on time, within budget, and with proper quality.
-📌 Roles: Leader, communicator, decision-maker, risk handler
-💡 Example: A PM in metro rail project manages teams, deadlines, and safety.
+🔹 Q5. What is Market and Demand Analysis?
+👉 It studies the potential demand for a product/service.
+📌 Steps: Define Market ➝ Estimate Demand ➝ Forecast ➝ Competitor Check
+💡 Example: Ola checked if Indian users wanted app-based taxi booking before launching.
 
-7️⃣ Q: What is a Project Organization? Types?
-📝 It means the structure of how people work in a project.
+---
+
+📘👨‍💼 UNIT 2: PROJECT MANAGER, ORGANIZATION & PLANNING
+
+🔹 Q6. Who is a Project Manager? What are their roles?
+👉 A Project Manager (PM) leads the team and ensures the project is completed successfully.
+📌 Roles:
+- Planning Master 📋
+- Risk Handler ⚠️
+- Team Motivator 🙌
+- Progress Tracker 📊
+
+💡 Example: In IT projects, PM ensures coding, testing, and launching all happen on time.
+
+🔹 Q7. What are types of Project Organization Structures?
 📌 Types:
-- Functional: Based on departments
-- Projectized: Full control under PM
-- Matrix: Mixed structure
-💡 Example: In software companies, matrix type is common—employees report to dept. head & PM.
+- Functional 🧩 (departments like HR, Finance)
+- Projectized 🏗️ (PM has full control)
+- Matrix 🔀 (mixed reporting)
 
-8️⃣ Q: What is a Project Management Office (PMO)?
-📝 PMO is a department that guides, supports, and monitors all projects in an organization.
-💡 Example: Infosys has a PMO to maintain quality and standard processes across IT projects.
+💡 Example: In a matrix company, a web designer reports to both Marketing head and Project Manager.
 
-9️⃣ Q: What is project planning?
-📝 Planning is deciding what tasks to do, when, who will do them, and how much they’ll cost.
-📌 Includes: Time plan, resource plan, cost plan
-💡 Example: Planning a wedding includes fixing date, booking venue, arranging food, etc.
+🔹 Q8. What is a Project Management Office (PMO)?
+👉 A PMO is a special unit that sets project standards, templates, tools, and reviews.
+💡 Example: Big IT firms use PMO to maintain consistency across multiple software projects.
 
-------------------------------------------------------------
+🔹 Q9. What is Project Planning?
+👉 It’s the step where the complete roadmap of the project is created.
+📌 Includes: Goals, Tasks, Timeline, Budget, Risks
+💡 Example: Planning a college fest includes dates, venue, budget, volunteers, and sponsors.
 
-📘 UNIT 3 – PROJECT IMPLEMENTATION, COSTING & NETWORKING
+---
 
-🔟 Q: What is project budgeting and cost estimation?
-📝 Budgeting is assigning money to different parts. Estimation is calculating total cost in advance.
-💡 Example: Budget for a gym may include ₹3L for equipment, ₹2L for rent, ₹1L for salaries.
+📘🛠️ UNIT 3: IMPLEMENTATION, SCHEDULING, PERT/CPM
 
-1️⃣1️⃣ Q: What is scheduling in a project?
-📝 It’s about making a timetable for all project tasks with start and end dates.
-💡 Example: Construction work – Week 1 (foundation), Week 2-3 (walls), Week 4 (roofing)
+🔹 Q10. What is Budgeting & Cost Estimation?
+👉 Budgeting: Allocating funds
+👉 Estimation: Predicting cost in advance
+📌 Steps: Resource Cost + Labor Cost + Buffer
 
-1️⃣2️⃣ Q: What is PERT?
-📝 PERT (Program Evaluation & Review Technique) is used when task time is uncertain.
-📌 Uses 3 times: Optimistic, Most Likely, Pessimistic.
-💡 Example: Software feature may take 2, 4, or 6 days. PERT gives weighted average ~4.3 days.
+💡 Example: For a restaurant project: ₹5L for setup, ₹3L for salaries, ₹2L buffer.
 
-1️⃣3️⃣ Q: What is CPM?
-📝 CPM (Critical Path Method) shows the longest path in the project that can delay it.
-💡 Example: If painting the house is delayed, and it's on critical path, entire house delivery delays.
+🔹 Q11. What is Project Scheduling?
+👉 Scheduling is about assigning timelines to tasks.
+📌 Tools: Gantt Chart, Calendar, MS Project
 
-1️⃣4️⃣ Q: What is project crashing?
-📝 It means finishing a project faster by using extra money or resources.
-💡 Example: Hiring 2 extra workers to complete a road project early.
+💡 Example: Website Project → Week 1: Design | Week 2: Coding | Week 3: Testing
 
-1️⃣5️⃣ Q: What is network construction?
-📝 It means drawing a flow of project tasks using diagrams (nodes & arrows).
-💡 Example: In an event, sequence: Book venue → Invite guests → Arrange catering → Final execution
+🔹 Q12. What is PERT?
+👉 PERT = Program Evaluation and Review Technique
+📌 Used when time is uncertain.
+🧠 Formula:
+`Expected Time = (Optimistic + 4 × Most Likely + Pessimistic) ÷ 6`
 
-------------------------------------------------------------
+💡 Example: Making an app feature:
+- Optimistic: 2 days
+- Likely: 4 days
+- Pessimistic: 6 days
+➡️ Expected = (2+16+6)/6 = 4 days
 
-📘 UNIT 4 – RESOURCE ALLOCATION & CHALLENGES
+🔹 Q13. What is CPM?
+👉 CPM = Critical Path Method
+📌 Shows longest path & important tasks. Delays in these delay the whole project.
 
-1️⃣6️⃣ Q: What is resource allocation?
-📝 It means giving the right people, time, money, or materials to the right tasks.
-💡 Example: 3 people are assigned to develop a mobile app, and 1 to test it.
+💡 Example: If steel delivery is delayed in bridge construction, everything else halts.
 
-1️⃣7️⃣ Q: What are types of resources in a project?
-📝 Types:
-- Work (People)
-- Material (Goods/tools)
-- Cost (Money)
-💡 Example: In building a school – laborers (work), bricks (material), ₹5L (cost).
+🔹 Q14. What is Project Crashing?
+👉 It means reducing time by adding resources.
+📌 Goal: Finish earlier, even if it costs more
 
-1️⃣8️⃣ Q: What is resource loading and leveling?
-📝 Loading: How much resource is being used.  
- Leveling: Balancing so no one is overloaded.
-💡 Example: If a manager is overloaded, some tasks are shifted to others.
+💡 Example: Hiring extra painters to finish house before Diwali.
 
-------------------------------------------------------------
+🔹 Q15. What is Network Construction?
+👉 It’s a diagram showing task order using nodes & arrows.
+📌 Tools: PERT chart, CPM chart
 
-📘 UNIT 5 – PROJECT MONITORING & CONTROL
+💡 Example: Making pizza: Prepare dough → Add toppings → Bake → Serve
 
-1️⃣9️⃣ Q: What is project monitoring?
-📝 Tracking the actual progress of work to ensure it matches plan.
-💡 Example: Daily check if website development is on schedule.
+---
 
-2️⃣0️⃣ Q: What is Planning–Monitoring–Controlling cycle?
-📝 Plan the work → Monitor progress → Control deviations
-💡 Example: If a task delays, manager adds help to bring it back on time.
+📘⚙️ UNIT 4: RESOURCE ALLOCATION & CHALLENGES
 
-2️⃣1️⃣ Q: What are types of project control?
-📝 Types:
-- Time control
-- Cost control
-- Quality control
-💡 Example: If budget increases, reduce expenses = cost control.
+🔹 Q16. What is Resource Allocation?
+👉 Assigning available resources to project tasks.
+📌 Resources: Human, Financial, Material, Equipment
 
-2️⃣2️⃣ Q: What are administrative aspects in project review?
-📝 Includes:
-- Reporting
-- Staff evaluation
-- Final report
-💡 Example: After a project, PM submits report showing achievements, issues, learning points.
+💡 Example: For an ad shoot: Camera = 1, Actor = 2, Time = 3 hours
+
+🔹 Q17. What are the types of Project Resources?
+📌 1. Work Resources (people)
+📌 2. Material Resources (bricks, wires)
+📌 3. Cost Resources (money, rent)
+
+💡 Example: In road construction – labor (work), cement (material), ₹50L (cost)
+
+🔹 Q18. What is Resource Loading and Leveling?
+👉 Loading = Total assigned work  
+👉 Leveling = Adjusting work to avoid overload
+
+💡 Example: If one designer has 10 tasks and another has 2, distribute evenly = leveling.
+
+---
+
+📘📊 UNIT 5: MONITORING, CONTROL & REVIEW
+
+🔹 Q19. What is Project Monitoring?
+👉 Keeping track of progress vs. plan
+📌 Monitors: Cost, Time, Quality, Scope
+
+💡 Example: Check daily sales vs. expected target in a marketing project.
+
+🔹 Q20. Explain Planning–Monitoring–Controlling Cycle.
+📌 Cycle:
+1. Plan 📋
+2. Monitor 🕵️
+3. Control 🔧
+
+💡 Example: Plan to build a school in 6 months → Monitor every 2 weeks → Fix delays by hiring more labor = control.
+
+🔹 Q21. What are the types of Project Control?
+📌 1. Time Control ⏳ – Stay on schedule  
+📌 2. Cost Control 💸 – Avoid over-budget  
+📌 3. Quality Control ✅ – Maintain standards
+
+💡 Example: If lights are over-budget, switch to local vendor = cost control.
+
+🔹 Q22. What are Administrative Aspects in Project Review?
+📌 Includes:
+- Reports 📄
+- Staff Performance 🧑‍💼
+- Lessons Learned 💡
+- Final Summary 🔚
+
+💡 Example: After an event, submit report showing what worked, what didn’t, and team feedback.
 
